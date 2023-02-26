@@ -1,2 +1,2 @@
-# baseline-expression
-Code and documentation for baseline expression and specificity data.
+# Baseline expression
+The code and documentation are organised into a Jupyter notebook.
